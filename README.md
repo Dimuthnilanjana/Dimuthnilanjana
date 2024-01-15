@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Dimuth Nilanjana</h1>
 <h3 align="center">A passionate frontend developer & UI/UX Enthusiast from Sri Lanka</h3>
 
+
+<img src="animation.gif" alt="My Animated GIF" width="300" height="300">
+
 <p align="left"> <a href="https://twitter.com/dimuthnilanjana" target="blank"><img src="https://img.shields.io/twitter/follow/dimuthnilanjana?logo=twitter&style=for-the-badge" alt="dimuthnilanjana" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://bio.link/dimuthnilanjana](https://bio.link/dimuthnilanjana)
