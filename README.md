@@ -1,5 +1,5 @@
 
- <img src="(https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)" alt="Your Image Alt Text" width="WIDTH" height="HEIGHT">
+ <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Your Image Alt Text" width="WIDTH" height="HEIGHT">
 <h1 align="center">Hi 👋, I'm Dimuth Nilanjana</h1>
 <h3 align="center">A passionate frontend developer & UI/UX Enthusiast from Sri Lanka</h3>
 
