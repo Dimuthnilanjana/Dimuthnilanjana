@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/dimuthnilanjana" target="blank"><img src="https://img.shields.io/twitter/follow/dimuthnilanjana?logo=twitter&style=for-the-badge" alt="dimuthnilanjana" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bio.link/dimuthnilanjana](https://bio.link/dimuthnilanjana)
+- 👨‍💻 All of my projects are available at [https://www.dimuthnilanjana.com](https://www.dimuthnilanjana.com)
 
-- 📫 How to reach me **dimuthnilanjana.official@gmail.com**
+- 📫 How to reach me **contact@dimuthnilanjana.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
