@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.dimuthnilanjana.com](https://www.dimuthnilanjana.com)
 
-- 📫 How to reach me **contact@dimuthnilanjana.com**
+- 📫 How to reach me **dimuthnilanjana.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
