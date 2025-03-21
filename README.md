@@ -9,7 +9,7 @@
 ```typescript
 const DimuthNilanjana = {
     location: "Sri Lanka 🇱🇰",
-    profession: "Frontend Developer & UI/UX Enthusiast",
+    profession: "UI/UX Engineer & Front End Engineer",
     portfolio: "https://www.dimuthnilanjana.com",
     skills: ["Frontend Development", "UI/UX Design", "Web Development", "Mobile Development"],
     currentFocus: ["React", "Angular", "Next.js", "UI/UX Design"],
