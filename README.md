@@ -2,7 +2,7 @@
 <div align="center"> 
  <img src="/Component 2 (2).png" alt="Cover Image" width="100%" style="border-radius:10px;"/>
 
- Component 2 (2).png
+
  ![Typing SVG](https://readme-typing-svg.herokuapp.comfont=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Frontend+Engineer;UX+Researcher;UI/UX+Engineer;Web+Developer)
 </div>
 
