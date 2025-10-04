@@ -11,31 +11,7 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const DimuthNilanjana = {
-    location: "Sri Lanka 🇱🇰",
-    profession: "UI/UX Engineer & Frontend Developer",
-    portfolio: "https://www.dimuthnilanjana.com",
-    bio: "Passionate about crafting intuitive and visually appealing user experiences. Bridging design and development to create seamless digital products.",
-    skills: [
-        "Frontend Development",
-        "UI/UX Design",
-        "Web Development",
-        "Mobile Development"
-    ],
-    currentFocus: [
-        "React", 
-        "Angular", 
-        "Next.js", 
-        "UI/UX Design"
-    ],
-    tools: [
-        "Figma", 
-        "Adobe XD", 
-        "Illustrator", 
-        "Photoshop", 
-        "Miro"
-    ],
-    philosophy: "Design with purpose. Code with precision. Deliver with impact. 🎨"
+const DimuthNilanjana = { location: "Sri Lanka 🇱🇰", profession: "UI/UX Engineer & Front End Engineer", portfolio: "https://www.dimuthnilanjana.com", skills: ["Frontend Development", "UI/UX Design", "Web Development", "Mobile Development"], currentFocus: ["React", "Angular", "Next.js", "UI/UX Design"], tools: ["Figma", "Adobe XD", "Illustrator", "Photoshop", "Miro"], lifePhilosophy: "Design with purpose. Code with precision. Deliver with impact. 🎨" };
 };
 
 ```
