@@ -1,10 +1,6 @@
-</div>
- <!-- Cover Image -->
-  <img src="https://your-image-url.com/cover-image.jpg" alt="Cover Image" width="100%" style="border-radius:10px;"/>
 
-  <!-- Typing SVG -->
-  <br>
-<div align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Frontend+Engineer;UX+Researcher;UI/UX+Engineer;Web+Developer)
+<div align="center"> 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.comfont=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Frontend+Engineer;UX+Researcher;UI/UX+Engineer;Web+Developer)
 </div>
 
 
